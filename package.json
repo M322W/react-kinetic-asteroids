@@ -15,7 +15,7 @@
     "browserify": "3.41.x",
     "browserify-shim": "3.5.0",
     "reactify": "0.13.1",
-    "lodash": "2.4.1"
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "beefy": "1.1.0"
